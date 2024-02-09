@@ -1,2 +1,1 @@
-# TLauncher-ArchLinux
-Como instalar o TLauncher (Minecraft) no Arch Linux?
+<img src="./img/logo-mine.png" align=center />
