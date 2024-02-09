@@ -19,5 +19,5 @@
 
   <br/>
 
-  <p>O jogo vai abrir para você começar a jogar, um AVISO, não fecha o terminal, também pode fechar o TLauncher, você pode fechar na hora que você não vai querer jogar mais.</p>
+  <p>O jogo vai abrir para você começar a jogar, um AVISO, não fecha o terminal, também pode fechar o jogo, você pode fechar na hora que você não vai querer jogar mais.</p>
 </div>
